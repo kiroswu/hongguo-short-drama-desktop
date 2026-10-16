@@ -108,6 +108,16 @@
 **Q5：下载的视频保存在哪里？**
 下载的 MP4 文件统一在下载页中管理，可随时查看、播放与清理。
 
+**Q6：短剧盒会开源完整源代码吗？**
+完整源代码的开源正在考虑中，确定后将第一时间在本仓库公布，敬请期待。
+
+## 🙏 灵感来源
+
+短剧盒的设计与实现灵感参考于以下开源项目，在此向原作者致谢：
+
+- [yangbin1322/hongguo-player](https://github.com/yangbin1322/hongguo-player)
+- [waligoraamodio288-rgb/hongguo-desktop-releases](https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases)
+
 ## ⚠️ 免责声明
 
 > 本项目为个人开源学习项目，**仅供学习与技术交流使用，严禁用于任何商业用途**。
